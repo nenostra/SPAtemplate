@@ -16,4 +16,4 @@ To try:
 
 Or:
 
-https://cryptic-temple-56420.herokuapp.com/about
+https://cryptic-temple-56420.herokuapp.com/
